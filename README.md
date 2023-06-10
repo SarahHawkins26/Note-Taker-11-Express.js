@@ -5,34 +5,24 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [Tests](#tests)
 - [Questions](#questions)
 - [License](#license)
-- [Demo](#demo)
+
 
 ## Description
-This project makes a basic personalized SVG logo off of user unput.
+This note taking app lets you write and view personal notes.
 
 ## Installation
 In the command line type, npm i, to install the needed applications
 
 ## Usage
-Use this project to create a basic personalized logo.
+Use this project to create notes with option of unique titles to find and view at another time.
 
 ## Contribution
-Google and Youtube
-
-## Tests
-
+Google, lots and lots of google.
 
 ## Questions
-sarahhawkins26@gmail.com
-https://github.com/sarahhawkins26
+Contact me through https://github.com/sarahhawkins26 , if you have any questions.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Demo
-https://drive.google.com/file/d/1q16AvM-Dx4V5EcNHQSLtbrmqGg6xrEUn/view
-
-## Link
