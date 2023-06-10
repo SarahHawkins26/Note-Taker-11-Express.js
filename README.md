@@ -10,7 +10,7 @@
 
 
 ## Description
-This note taking app lets you write and view personal notes.
+This note taking app lets you write and view personal notes at any time.
 
 ## Installation
 In the command line type, npm i, to install the needed applications
